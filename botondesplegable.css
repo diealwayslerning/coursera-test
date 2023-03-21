@@ -1,0 +1,42 @@
+.boton{
+ 
+    background-color: #456789;
+    color: white;
+    border: none;
+    padding: 16px;
+    font-size: 18.5px;
+    cursor: pointer;
+}
+.links a{
+ 
+text-decoration: none ;
+color:black;
+display: block;
+padding: 13px;
+
+
+}
+
+.links{
+
+background-color: #f9f9f9;
+width: 185px ;
+display: none;
+
+}
+.links a:hover{
+
+    background-color: #f1f1f1;
+}
+
+
+.desplegable:hover .links{display: block;
+
+display: block;
+
+}
+
+.desplegable{
+
+    position: absolute              ;
+}
